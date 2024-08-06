@@ -16,7 +16,7 @@
 - **Mehran University of Engineering and Technology** | **Jamshoro, Pakistan - (Oct 2018 - Dec 2022)**
 - **CGPA:** 3.95/4.00
 - **Dissertation:** Leveraging Natural Language Processing for Public Health Screening of COVID-19
-- **Honors:** Undergraduate First Position Holder (Silbermedaillengewinner)
+- **Honors:** Undergraduate First Position Holder
 - **Specializations:** Computer Programming, Computer Networking, Machine Learning
 
 ## Work Experience
