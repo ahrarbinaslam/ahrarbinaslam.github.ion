@@ -61,5 +61,5 @@ problems (e.g. Internet and MPLS).
 - A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
 
 ## References
-- [Zafi Sherhan Syed] (https://scholar.google.com/citations?hl=en&user=OLku1akAAAAJ&view_op=list_works&sortby=pubdate), Associate Professor, Mehran University of Engineering and Technology.
-- [Faheem Yar Khuhawar] (https://scholar.google.com/citations?user=cKbmWfwAAAAJ&hl=en), Associate Professor, Mehran University of Engineering and Technology.
+- [Zafi Sherhan Syed](https://scholar.google.com/citations?hl=en&user=OLku1akAAAAJ&view_op=list_works&sortby=pubdate), Associate Professor, Mehran University of Engineering and Technology.
+- [Faheem Yar Khuhawar](https://scholar.google.com/citations?user=cKbmWfwAAAAJ&hl=en), Associate Professor, Mehran University of Engineering and Technology.
