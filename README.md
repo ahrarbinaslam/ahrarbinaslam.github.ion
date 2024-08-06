@@ -32,9 +32,9 @@ department to help students track their academic progress
 ### Artificial Intelligence Instructor
 - **National Vocational and Technical Training Commission** | **Jamshoro, Pakistan - (May 2023 - Aug 2023)**
 
-  - Developed comprehensive course material for Python programming, statistics, machine learning, and natural language
+- Developed comprehensive course material for Python programming, statistics, machine learning, and natural language
 processing.
-  - Delivered lectures to a class of 30+ students on the practical application of AI in the areas of computer vision, natural
+- Delivered lectures to a class of 30+ students on the practical application of AI in the areas of computer vision, natural
 language processing, and cybersecurity.
 
 ### Technical Assistance Center Engineer
@@ -59,3 +59,7 @@ problems (e.g. Internet and MPLS).
 ## Publications
 - A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. [arXiv preprint arXiv:2306.01164](https://arxiv.org/abs/2306.01164).
 - A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
+
+## References
+- Zafi Sherhan Syed, Associate Professor, Mehran University of Engineering and Technology. [Zafi Sherhan Syed](https://scholar.google.com/citations?hl=en&user=OLku1akAAAAJ&view_op=list_works&sortby=pubdate)
+- Faheem Yar Khuhawar, Associate Professor, Mehran University of Engineering and Technology. [Faheem Yar Khuhawar](https://scholar.google.com/citations?user=cKbmWfwAAAAJ&hl=en)
