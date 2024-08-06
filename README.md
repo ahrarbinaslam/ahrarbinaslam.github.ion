@@ -17,7 +17,7 @@
 - **CGPA:** 3.95/4.00
 - **Dissertation:** Leveraging Natural Language Processing for Public Health Screening of COVID-19
 - **Honors:** Undergraduate First Position Holder (Silbermedaillengewinner)
-- **Specializations:** Computerprogrammierung, Computernetzwerke, Maschinelles Lernen
+- **Specializations:** Computer Programming, Computer Networking, Machine Learning
 
 ## Work Experience
 ### Research Assistant
@@ -52,9 +52,9 @@ problems (e.g. Internet and MPLS).
 - Deutsch (CEFR A1)
 
 ## Skills and Interest
-- **Programmiersprachen:** Python, MATLAB, C++
-- **Librarien:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
-- **Sonstiges:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
+- **Programming Languages:** Python, MATLAB, C++
+- **Libraries:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
+- **Tools and Technologies:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
 ## Publications
 - A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. [arXiv preprint arXiv:2306.01164](https://arxiv.org/abs/2306.01164).
