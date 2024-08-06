@@ -2,7 +2,7 @@
 
 ### Contact
 - Email: [ahas00001@stud.uni-saarland.de](mailto:ahas00001@stud.uni-saarland.de)
-- LinkedIn: [https://linkedin.com/in/ahrarbinaslam23]
+- LinkedIn: https://linkedin.com/in/ahrarbinaslam23
 
 ### Address
 - Bahnstraße 26, Saarbrücken, Deutschland
@@ -14,43 +14,54 @@
 
 ### Bachelor of Engineering (B.E) in Telecommunication
 - **Mehran University of Engineering and Technology** | Jamshoro, Pakistan
-- _Oct 2018 - Dec 2022_
+- Oct 2018 - Dec 2022
 - **CGPA:** 3.95/4.00
 - **Dissertation:** Leveraging Natural Language Processing for Public Health Screening of COVID-19
 - **Honors:** Undergraduate First Position Holder (Silbermedaillengewinner)
 - **Specializations:** Computerprogrammierung, Computernetzwerke, Maschinelles Lernen
 
-## Berufserfahrung
+## Work Experience
 ### Research Assistant
 - **Mehran University of Engineering and Technology** | Jamshoro, Pakistan
-- _Dec 2023 - Aug 2024_
+- Dec 2023 - Aug 2024
 - Utilized my IT skills in the university’s examination department, including database administration, management of
 website, web portals, and server. I also managed the QOBE software, ensuring its efficient operation for exam processes.
+
 - Developed a user-friendly GPA and Probation calculator using HTML, CSS, and Javascript for the university’s examination
 department to help students track their academic progress.
+
 - Developed databases using SQL Server and utilized data analytics tools to gain insights from the examination data
 
 ### Artificial Intelligence Instructor
 - **National Vocational and Technical Training Commission** | Jamshoro, Pakistan
-- _May 2023 - Aug 2023_
-  - Entwicklung von umfassendem Kursmaterial für Python-Programmierung, Statistik, maschinelles Lernen und Verarbeitung natürlicher Sprache.
-  - Er hielt Vorlesungen vor einer Klasse von mehr als 30 Studenten, wobei er praktische Implementierungen von KI in den Bereichen Computer Vision, Verarbeitung natürlicher Sprache und Cybersicherheit verwendete.
+- May 2023 - Aug 2023
+  - Developed comprehensive course material for Python programming, statistics, machine learning, and natural language
+processing.
+
+  - Delivered lectures to a class of 30+ students on the practical application of AI in the areas of computer vision, natural
+language processing, and cybersecurity.
 
 ### Technical Assistance Center Engineer
 - **Sybrid Private Limited** | Karachi, Pakistan
-- _Dec 2022 - May 2023_
-  - Fehlerbehebung und unterstützte LAN- und WAN-Konnektivitätsprobleme sowie Diagnose von Netzwerkproblemen mithilfe von Tools wie Looking Glass und Wireshark Analyzer.
-  - Überwachte die GPON-Infrastruktur mit Huawei iMaster NCE NMS und verwendete Tools wie Multi Router Traffic Grapher (MRTG) und Observium.
-  - Angewandte Kenntnisse der Layer-2-Protokolle (z. B. STP und RSTP) zur Diagnose und Lösung von L2- und L3-Verbindungsproblemen (z. B. Internet und MPLS).
+- Dec 2022 - May 2023
+  - Troubleshoot LAN and WAN connectivity issues and diagnosed network problems using tools such as Looking Glass and
+Wireshark.
 
-## Sprachen
+- Monitored GPON infrastructure with Huawei iMaster NCE NMS and used tools like Multi Router Traffic Grapher (MRTG)
+and Observium.
+
+- Applied knowledge of Layer 2 and Layer 3 protocols (e.g. STP, RSTP, OSPF) to diagnose and resolve L2 and L3 connection
+problems (e.g. Internet and MPLS).
+
+## Languages
 - English (CEFR C1)
 - Deutsch (CEFR A1)
 
-## Fertigkeiten
+## Skills and Interest
 - **Programmiersprachen:** Python, MATLAB, C++
 - **Librarien:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
 - **Sonstiges:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
-## Forschungspublikation
-- A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Zur Veröffentlichung angenommen).
+## Publications
+-A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. arXiv preprint arXiv:2306.01164.
+- A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
