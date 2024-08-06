@@ -2,12 +2,12 @@
 
 ### Contact
 - Email: [ahas00001@stud.uni-saarland.de](mailto:ahas00001@stud.uni-saarland.de)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ahrarbinaslam23)
+- LinkedIn: [https://linkedin.com/in/ahrarbinaslam23]
 
 ### Address
 - Bahnstraße 26, Saarbrücken, Deutschland
 
-## Studium
+## Education
 ### Master of Science (M.Sc.) in Cybersecurity
 - **Universität des Saarlandes** | Saarland, Germany
 - _Oct 2024 - Present_
@@ -24,8 +24,11 @@
 ### Research Assistant
 - **Mehran University of Engineering and Technology** | Jamshoro, Pakistan
 - _Dec 2023 - Aug 2024_
-  - Verwaltung der Prüfungsdatenbank, der Website, des Servers und der Webportale der Universität unter Gewährleistung solider Sicherheitsmaßnahmen zum Schutz sensibler Daten.
-  - Entwurf und Entwicklung von Datenbanken unter Verwendung von SQL Server und Einsatz von Datenanalysetools, um Erkenntnisse aus Prüfungsdaten zu gewinnen.
+- Utilized my IT skills in the university’s examination department, including database administration, management of
+website, web portals, and server. I also managed the QOBE software, ensuring its efficient operation for exam processes.
+- Developed a user-friendly GPA and Probation calculator using HTML, CSS, and Javascript for the university’s examination
+department to help students track their academic progress.
+- Developed databases using SQL Server and utilized data analytics tools to gain insights from the examination data
 
 ### Artificial Intelligence Instructor
 - **National Vocational and Technical Training Commission** | Jamshoro, Pakistan
