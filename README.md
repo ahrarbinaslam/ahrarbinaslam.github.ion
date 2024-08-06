@@ -59,3 +59,4 @@ problems (e.g. Internet and MPLS).
 ## Publications
 - A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. [arXiv preprint arXiv:2306.01164](https://arxiv.org/abs/2306.01164).
 - A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
+![EEG Band Discovery](assets/img/profile-pic (1).png)
