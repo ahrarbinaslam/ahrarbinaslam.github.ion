@@ -1,5 +1,9 @@
 # Ahrar Bin Aslam
 
+<p align="left">
+  <img src="assets/img/profile-pic (1).png" alt="Headshot" width="150" align="left" style="margin-right: 20px;" />
+</p>
+
 ### Contact
 - Email: [ahas00001@stud.uni-saarland.de](mailto:ahas00001@stud.uni-saarland.de)
 - LinkedIn: [https://linkedin.com/in/ahrarbinaslam23](https://linkedin.com/in/ahrarbinaslam23)
