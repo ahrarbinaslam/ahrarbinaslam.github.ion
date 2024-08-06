@@ -2,7 +2,8 @@
 
 ### Contact
 - Email: [ahas00001@stud.uni-saarland.de](mailto:ahas00001@stud.uni-saarland.de)
-- LinkedIn: https://linkedin.com/in/ahrarbinaslam23
+- LinkedIn: [https://linkedin.com/in/ahrarbinaslam23](https://linkedin.com/in/ahrarbinaslam23)
+- Google Scholar: [Ahrar Bin Aslam](https://scholar.google.com/citations?user=TjNDuj0AAAAJ&hl=en)
 
 ### Address
 - Bahnstraße 26, Saarbrücken, Deutschland
@@ -33,7 +34,6 @@ department to help students track their academic progress
 
   - Developed comprehensive course material for Python programming, statistics, machine learning, and natural language
 processing.
-
   - Delivered lectures to a class of 30+ students on the practical application of AI in the areas of computer vision, natural
 language processing, and cybersecurity.
 
