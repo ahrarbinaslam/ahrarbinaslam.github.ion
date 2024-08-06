@@ -1,8 +1,48 @@
-# Ahrar Bin Aslam
-
-<p align="left">
-  <img src="assets/img/profile-pic (1).png" alt="Headshot" width="150" align="left" style="margin-right: 20px;" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahrar Bin Aslam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            margin-right: 20px;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .header a {
+            display: inline-block;
+            margin-top: 10px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="assets/img/profile-pic (1).png" alt="Ahrar Bin Aslam">
+        <div>
+            <h1>Ahrar Bin Aslam</h1>
+            <a href="https://github.com/ahrarbinaslam" target="_blank">View My GitHub Profile</a>
+        </div>
+    </div>
 
 ### Contact
 - Email: [ahas00001@stud.uni-saarland.de](mailto:ahas00001@stud.uni-saarland.de)
@@ -63,4 +103,3 @@ problems (e.g. Internet and MPLS).
 ## Publications
 - A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. [arXiv preprint arXiv:2306.01164](https://arxiv.org/abs/2306.01164).
 - A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
-![EEG Band Discovery](assets/img/profile-pic (1).png)
