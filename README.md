@@ -57,6 +57,9 @@ problems (e.g. Internet and MPLS).
 - **Libraries:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
 - **Tools and Technologies:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
+## Certifications
+- For more details about my certifications, please click on the following [link](https://drive.google.com/drive/folders/18Nwnijli1AXx3NvtLJIbVPS0eTKf9tFP?usp=sharing). 
+
 ## Publications
 - A. Aslam et al (2023). Leveraging Natural Language Processing For Public Health Screening On YouTube: A COVID-19 Case Study. [arXiv preprint arXiv:2306.01164](https://arxiv.org/abs/2306.01164).
 - A. Aslam et al. (2024). Artificial Intelligence-Enabled 6G Mobile Systems. [Intelligent Technologies for Healthcare Business Applications](https://link.springer.com/book/9783031585265). Springer. (Accepted for Publication).
