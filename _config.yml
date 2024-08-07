@@ -1,8 +1,33 @@
-title: Ahrar Bin Aslam
-logo: /assets/img/profile-pic (1).png
-description: >
-  I am a masters student of Cybersecurity at Saarland University. I completed my Bachelors in Telecommunications Engineering 
-  from Mehran University, Jamshoro, by securing the first position in my batch. I have conducted research in natural language 
-  processing, artificial intelligence, and 6G networks. You can contact me via email or LinkedIn.
+title: Ahrar Bin Aslam's Portfolio
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  My personal portfolio showcasing my work, certifications, and skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ahrarbinaslam.github.io" # the base hostname & protocol for your site
+github_username: ahrarbinaslam
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman  # or your preferred Jekyll theme
+
+# Build settings
+markdown: kramdown
+
+# Navigation links
+nav_links:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Teaching"
+    link: "/teaching"
+  - name: "Certifications"
+    link: "/certifications"
+  - name: "Education"
+    link: "/education"
+  - name: "Work Experience"
+    link: "/experience"
+  - name: "Skills"
+    link: "/skills"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
