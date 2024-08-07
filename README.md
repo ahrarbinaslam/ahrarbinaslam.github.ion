@@ -58,6 +58,11 @@ problems (e.g. Internet and MPLS).
 - **Tools and Technologies:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
 ## Certifications
+- Fortinet Ceritified Associate in Cybersecurity
+- HCIA-Datacom Certified
+- CCNA-Introduction to Networks
+- CCNA-Switching, Routing, and Wireless Essentials
+- Python for Everybody
 - For more details about my certifications, please click on the following [link](https://drive.google.com/drive/folders/18Nwnijli1AXx3NvtLJIbVPS0eTKf9tFP?usp=sharing). 
 
 ## Publications
