@@ -22,7 +22,7 @@
 
 ## Work Experience
 ### Research Assistant
-- **Mehran University of Engineering and Technology** | **Jamshoro, Pakistan - (Dec 2023 - Aug 2024)**
+- **[Mehran University of Engineering and Technology](https://www.muet.edu.pk/)** | **Jamshoro, Pakistan - (Dec 2023 - Aug 2024)**
 
 - Utilized my IT skills in the university’s examination department, including database administration, management of
 website, web portals, and server. I also managed the QOBE software, ensuring its efficient operation for exam processes.
@@ -31,7 +31,7 @@ department to help students track their academic progress
 - Developed databases using SQL Server and utilized data analytics tools to gain insights from the examination data
 
 ### Artificial Intelligence Instructor
-- **National Vocational and Technical Training Commission** | **Jamshoro, Pakistan - (May 2023 - Aug 2023)**
+- **[National Vocational and Technical Training Commission](https://navttc.gov.pk/)** | **Jamshoro, Pakistan - (May 2023 - Aug 2023)**
 
 - Developed comprehensive course material for Python programming, statistics, machine learning, and natural language
 processing.
@@ -39,7 +39,7 @@ processing.
 language processing, and cybersecurity.
 
 ### Technical Assistance Center Engineer
-- **Sybrid Private Limited** | **Karachi, Pakistan - (Dec 2022 - May 2023)**
+- **[Sybrid Private Limited](https://sybrid.com/)** | **Karachi, Pakistan - (Dec 2022 - May 2023)**
   
 - Troubleshoot LAN and WAN connectivity issues and diagnosed network problems using tools such as Looking Glass and
 Wireshark.
@@ -55,7 +55,7 @@ problems (e.g. Internet and MPLS).
 ## Skills and Interest
 - **Programming Languages:** Python, MATLAB, C++
 - **Libraries:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
-- **Tools and Technologies:** Cybersicherheit, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
+- **Tools and Technologies:** Cybersecurity, Data Science, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
 ## Certifications
 - Fortinet Ceritified Associate in Cybersecurity
