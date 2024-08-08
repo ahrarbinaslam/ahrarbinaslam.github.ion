@@ -57,6 +57,12 @@ problems (e.g. Internet and MPLS).
 - **Libraries:** Numpy, Pandas, Matplotlib, NLTK, SpaCy, Scikit-Learn
 - **Tools and Technologies:** Cybersecurity, Data Science, Cisco Packet Tracer, eNSP, Linux, Latex, MS Office, Wireshark, PowerBI
 
+## Projects
+- Leveraging Natural Language Processing for Public Health Screening of COVID-19
+- Sentiment and Word Cloud Analysis of FIFA World Cup 2022 Tweets
+- Sentiment Classification of Russia vs Ukraine Tweets
+- Implementing Homomorphic Encryption on Datasets
+
 ## Certifications
 - Fortinet Ceritified Associate in Cybersecurity
 - HCIA-Datacom Certified
